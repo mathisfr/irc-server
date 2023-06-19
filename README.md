@@ -21,7 +21,7 @@ make
 ## Usage
 To run the ft_irc server, execute the following command:
 ```bash
-./ft_irc <port> <password>
+./ircserv <port> <password>
 ```
 To run the ft_irc bot, execute the following command (in correct bot folder):
 ```bash
